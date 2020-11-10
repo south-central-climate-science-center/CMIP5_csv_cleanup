@@ -1,0 +1,26 @@
+variable,variable_standard_name,variable_long_name
+clt,cloud_area_fraction,Total Cloud Fraction
+evspsbl,water_evaporation_flux_from_canopy,Evaporation
+hur,relative_humidity,relative_humidity
+hus,specific_humidity,specific_humidity
+huss,specific_humidity,specific_humidity
+pr,precipitation_flux,Precipitation
+prc,convective_precipitation_flux,Convective Precipitation
+prsn,snowfall_flux,Snowfall flux
+prw,atmosphere_water_vapor_content,Water Vapor Path
+psl,air_pressure_at_sea_level,Sea Level Pressure
+rlut,toa_outgoing_longwave_flux,TOA Outgoing Longwave Radiation
+rsut,toa_outgoing_shortwave_flux,TOA Outgoing Shortwave Radiation
+sfcWindmax,wind_speed,Daily Maximum Near-Surface Wind Speed
+ta,air_temperature ,air_temperature
+tas,air_temperature,Near-Surface Air Temperature
+tasmax,air_temperature,Daily Maximum Near-Surface Air Temperature
+tasmin,air_temperature,Daily Minimum Near-Surface Air Temperature
+tos,sea_surface_temperature ,sea_surface_temperature 
+ts,surface_temperature,Surface Temperature
+ua,eastward_wind ,eastward_wind
+uas,eastward_wind,Eastward Near-Surface Wind
+va,northward_wind ,northward_wind
+vas,northward_wind,Northward Near-Surface Wind
+wap,lagrangian_tendency_of_air_pressure,lagrangian_tendency_of_air_pressure
+zg,geopotential_height ,Geopotential Height
